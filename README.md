@@ -5,11 +5,13 @@
 
 🌍 Denmark
 
+🔭 I’m currently working on maintaining RMWC
+
 🎨 I like to draw
 
 🎮 I enjoy video games
 
-🔭 I’m currently working on maintaining RMWC
+🌷 INFP
 
 
 

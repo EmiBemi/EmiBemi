@@ -1,4 +1,13 @@
-### Hi there 👋
+# Hi there 👋 I'm Emilie.
+
+## About me
+👩‍💻 Frontend developer
+🌍 Denmark
+🎨 I like to draw
+🎮 I enjoy video games
+🔭 I’m currently working on maintaining RMWC
+
+
 
 <!--
 **EmiBemi/EmiBemi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

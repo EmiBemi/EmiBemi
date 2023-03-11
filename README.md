@@ -2,9 +2,13 @@
 
 ## About me
 👩‍💻 Frontend developer
+
 🌍 Denmark
+
 🎨 I like to draw
+
 🎮 I enjoy video games
+
 🔭 I’m currently working on maintaining RMWC
 
 

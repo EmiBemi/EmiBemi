@@ -5,7 +5,7 @@
 
 🌍 Denmark
 
-🔭 I’m currently working on maintaining RMWC
+🔭 I’m currently maintaining RMWC
 
 🎨 I like to draw
 
